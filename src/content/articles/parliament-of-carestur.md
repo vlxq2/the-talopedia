@@ -36,7 +36,7 @@ infobox:
 
 ### Parliament of Carestur
 
-The **Parliament of Carestur** (*Parlament de Carestur* in Caresturian; *Parlement de Carestur* in Septimanian) is the bicameral national legislature of the **Republic of Carestur**. Established under **Title IV** of the ***Constitucion de Carestur*** on **1 June 1934**, it consists of an upper chamber, the ***Conselh de la Republica*** (*Council of the Republic*), and a lower chamber, the ***Assemblada Nacionala*** (*National Assembly*). Both chambers convene in the national capital of **Tolosa**.
+The **Parliament of Carestur** (*Parlament de Carestur* in Caresturian; *Parlement de Carestur* in Septimanian) is the bicameral national legislature of the [[carestur|Republic of Carestur]]. Established under **Title IV** of the [[constitution-of-carestur|Constitucion de Carestur]] on **1 June 1934**, it consists of an upper chamber, the ***Conselh de la Republica*** (*Council of the Republic*), and a lower chamber, the ***Assemblada Nacionala*** (*National Assembly*). Both chambers convene in the national capital of **Tolosa**.
 
 Designed by the jurists of the ***Movement de Renovacion Meridiana*** to correct the chronic cabinet instability of the Third Republic, the Fourth Republic's parliament operates under strict rules of rationalized parliamentarism, balancing representative lawmaking with executive authority and technical review by the **Conselh Superior de la Competéncia**.
 
