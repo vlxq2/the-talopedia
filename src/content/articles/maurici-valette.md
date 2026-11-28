@@ -5,7 +5,7 @@ nation: carestur
 authors: [carestur]
 infobox:
   - { image: "https://i.imgur.com/eEKsx0k.jpeg", caption: "Official studio Portrait of Maurici Valette" }
-  - { office: "In office", term: "1926-1934 (as league leader)  1934-present (as party leader)" }
+  - { office: "In office", term: "1926-1934 (as league leader) 1934-present (as party leader)" }
   - { label: "Preceded by", value: "*Office Established*" }
   - { section: "Personal Details" }
   - label: "Born"
@@ -40,7 +40,7 @@ Following the outbreak of the [[great-war|Great War]] in 1914, Valette enlisted 
 
 During the early 1920s, Valette practiced law briefly in Tolosa before turning full-time to political journalism. Amid sovereign debt crises, postwar inflation, and recurring cabinet collapses in the **Third Caresturian Assembly**, his writings grew increasingly hostile toward liberal parliamentarism and the expanding socialist labor movement.
 
-<figure class="float float-right r-1x1" style="width:300px"><img src="https://i.imgur.com/FFePU0V.jpeg" alt="**Valette at the Editorial Desk of* L'Espasa Meridiana***"><figcaption>**Valette at the Editorial Desk of* L'Espasa Meridiana***</figcaption></figure>
+<figure class="float float-right r-1x1" style="width:300px"><img src="https://i.imgur.com/FFePU0V.jpeg" alt="***Valette at the Editorial Desk of* L'Espasa Meridiana**"><figcaption>***Valette at the Editorial Desk of* L'Espasa Meridiana**</figcaption></figure>
 
 In 1926, Valette joined disaffected veterans' associations and nationalist student groups in Tolosa and **Marsillia** to establish ***Accion Meridiana***, assuming sole executive direction of the movement. That same year, he founded the party organ ***L'Espasa Meridiana***, serving as its chief editorialist and political director. Under Valette's leadership, Accion Meridiana expanded rapidly as an extra-parliamentary league, organizing uniformed youth sections (*Joventuts Meridianas*) and staging mass demonstrations against cabinet instability and industrial strikes in **Barcino** and **Marsillia.**
 
@@ -57,5 +57,5 @@ As Leader of *Accion Meridiana* and chairman of its parliamentary caucus, Valett
 Valette's political doctrine blends integral Caresturian nationalism, traditionalist social hierarchy, and state corporatism:
 
 - **Anti-Parliamentarism:** Valette argues that multi-party legislatures inherently fracture national unity and favor sectional interests over state authority, advocating instead for a strong, non-partisan executive supported by consultative professional estates.
-- **Corporatist Economics:** Rejecting both the democratic socialism of the ***Partit Socialista de Doas Ribas* (PSDR) **and the orthodox financial liberalism of the** FRP**, he favors compulsory, state-arbitrated syndicates uniting employers and workers alongside strict tariff protection for domestic agriculture and industry.
+- **Corporatist Economics:** Rejecting both the democratic socialism of the ***Partit Socialista de Doas Ribas*** **(PSDR) and the orthodox financial liberalism of the** **FRP**, he favors compulsory, state-arbitrated syndicates uniting employers and workers alongside strict tariff protection for domestic agriculture and industry.
 - **Colonial Integration:** Valette opposes administrative devolution in overseas territories, maintaining that **Numidia** must remain an indivisible department governed directly from Tolosa under metropolitan legal supremacy.
