@@ -30,7 +30,7 @@ infobox:
 
 ### Constitution of Carestur
 
-The **Constitution of Carestur** (*Constitucion de Carestur* in Caresturian; *Constitution de Carestur* in Septimanian), formally adopted on **1 June 1934**, is the supreme foundational law of the **Republic of Carestur** and the charter of the **Fourth Republic**. Drafted at the **Constitutional Convention of Tolosa** following the collapse of the **Third Caresturian Republic**, it replaced the parliamentary system established by the **Constitutional Laws of 1875** with a centralized, unitary semi-presidential framework.
+The **Constitution of Carestur** (*Constitucion de Carestur* in Caresturian; *Constitution de Carestur* in Septimanian), formally adopted on **1 June 1934**, is the supreme foundational law of the [[carestur|Republic of Carestur]] and the charter of the **Fourth Republic**. Drafted at the **Constitutional Convention of Tolosa** following the collapse of the **Third Caresturian Republic**, it replaced the parliamentary system established by the **Constitutional Laws of 1875** with a centralized, unitary semi-presidential framework.
 
 Designed to end decades of ministerial instability and legislative gridlock, the 1934 charter pairs a directly elected presidency and rationalized parliamentary rules with technocratic oversight over fiscal and constitutional competence, while establishing the constitutional basis for the self-governing **Autonomous Territory of Numidia**.
 
