@@ -6,7 +6,7 @@ nation: carestur
 authors: [carestur]
 infobox:
   - { image: "https://i.imgur.com/jkYxe3a.png", caption: "Official Emblem of *Accion Meridiana*" }
-  - { label: "Leader", value: "Maurici Valette" }
+  - { label: "Leader", value: "[[maurici-valette]]" }
   - label: "Founded"
     value:
       - "1926 (as a league)"
@@ -33,7 +33,7 @@ infobox:
 
 ## *Accion Meridiana*
 
-***Accion Meridiana*** (**AM**) is a far-right, integral nationalist political party in the **Republic of Carestur**. Originating in the mid-1920s as an extra-parliamentary nationalist league during the political and economic crises of the Third Republic, it reorganized as a formal electoral party following the promulgation of the **Constitucion de Carestur** in 1934.
+***Accion Meridiana*** (**AM**) is a far-right, integral nationalist political party in the [[carestur|Republic of Carestur]]. Originating in the mid-1920s as an extra-parliamentary nationalist league during the political and economic crises of the Third Republic, it reorganized as a formal electoral party following the promulgation of the **Constitucion de Carestur** in 1934.
 
 In the ***Parlament de Carestur***, Accion Meridiana sits in hardline opposition to the minority **FRP-ADT** coalition government of Prime Minister **Jean-Baptiste Cazals**, holding **29 of 577 seats** in the ***Assemblada Nacionala*** and **17 of 348 seats** in the ***Conselh de la Republica*** on a national vote share of approximately **5%**.
 
@@ -69,7 +69,7 @@ Confronted with strict public-order statutes enforced by the new regime, which t
 
 <figure class="float float-right" style="width:300px"><img src="https://i.imgur.com/uzJ9v7o.jpeg" alt="**National Headquarters of* Accion Meridiana *in Tolosa**"><figcaption>**National Headquarters of* Accion Meridiana *in Tolosa**</figcaption></figure>
 
-Headquartered in **Tolosa**, Accion Meridiana is directed by  **Maurici Valette**
+Headquartered in **Tolosa**, Accion Meridiana is directed by [[maurici-valette]]
 
 and propagates its platform through its daily newspaper, ***L'Espasa Meridiana***, and its youth organization, the ***Joventuts Meridianas***. Under the Fourth Republic's statutory firewalls separating registered political parties from paramilitary leagues and trade unions, AM has been compelled to maintain a formal legal separation between its parliamentary caucus and its affiliated street and veterans' associations to avoid judicial dissolution.
 
