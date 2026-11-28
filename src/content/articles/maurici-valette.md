@@ -5,7 +5,7 @@ nation: carestur
 authors: [carestur]
 infobox:
   - { image: "https://i.imgur.com/eEKsx0k.jpeg", caption: "Official studio Portrait of Maurici Valette" }
-  - { office: "In office", term: "1926-1934 (as league leader) 1934-present (as party leader)" }
+  - { office: "In office", term: "1926-1934 (as league leader)  1934-present (as party leader)" }
   - { label: "Preceded by", value: "*Office Established*" }
   - { section: "Personal Details" }
   - label: "Born"
