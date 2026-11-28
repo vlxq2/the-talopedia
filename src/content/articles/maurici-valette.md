@@ -26,14 +26,13 @@ infobox:
 
 ## Maurici Valette
 
-**Maurici Valette** (born 14 October 1888) is a Caresturian politician, journalist, and jurist who serves as the founder and president of the far-right political party [[carestur-accion-meridiana|***Accion Meridiana***]] **(AM)** and as a deputy in the ***Assemblada Nacionala***. A decorated veteran of the Great War and a prominent interwar nationalist polemicist, Valette led Accion Meridiana from its origins as an extra-parliamentary street league in 1926 through its reorganization into a registered parliamentary party following the adoption of the **Constitucion de Carestur** in 1934.
+**Maurici Valette** (born 14 October 1888) is a Caresturian politician, journalist, and jurist who serves as the founder and president of the far-right political party [[carestur-accion-meridiana|Accion Meridiana]] **(AM)** and as a deputy in the ***Assemblada Nacionala***. A decorated veteran of the Great War and a prominent interwar nationalist polemicist, Valette led Accion Meridiana from its origins as an extra-parliamentary street league in 1926 through its reorganization into a registered parliamentary party following the adoption of the **Constitucion de Carestur** in 1934.
 
 In the **Parlament de Carestur**, Valette leads the 29-member Accion Meridiana parliamentary group in hardline opposition to the minority **FRP–ADT** coalition government of Prime Minister **Jean-Baptiste Cazals**.
 
 ### Early Life and Military Service
 
-Maurici Valette was born on 14 October 1888 in **Carcassona**, in the historical province of Languedoc, into a family of provincial magistrates and landowners. Educated at 
-Ecclesiarchic secondary schools in Carcassona, he moved to **Tolosa** in 1907 to study law and letters at the University of Tolosa. As a student, Valette frequented traditionalist literary circles and contributed essays to regional conservative periodicals criticizing the secularizing policies of the **Third Caresturian Republic**.
+Maurici Valette was born on 14 October 1888 in **Carcassona**, in the historical province of Languedoc, into a family of provincial magistrates and landowners. Educated at  Ecclesiarchic secondary schools in Carcassona, he moved to **Tolosa** in 1907 to study law and letters at the University of Tolosa. As a student, Valette frequented traditionalist literary circles and contributed essays to regional conservative periodicals criticizing the secularizing policies of the **Third Caresturian Republic**.
 
 Following the outbreak of the [[great-war|Great War]] in 1914, Valette enlisted in the Caresturian infantry. He served along the northern frontier before being transferred to the Alpine sector in 1916, rising to the rank of lieutenant. Twice wounded by artillery shrapnel during the trench campaigns of 1917, he was decorated for valor and invalided out of active frontline service shortly before the 1918 armistice. Like many veterans of his generation, Valette returned to civilian life deeply alienated from the parliamentary class in Tolosa, which he blamed for diplomatic indecisiveness and postwar economic dislocation.
 
@@ -41,7 +40,7 @@ Following the outbreak of the [[great-war|Great War]] in 1914, Valette enlisted 
 
 During the early 1920s, Valette practiced law briefly in Tolosa before turning full-time to political journalism. Amid sovereign debt crises, postwar inflation, and recurring cabinet collapses in the **Third Caresturian Assembly**, his writings grew increasingly hostile toward liberal parliamentarism and the expanding socialist labor movement.
 
-<figure class="float float-right r-1x1" style="width:300px"><img src="https://i.imgur.com/FFePU0V.jpeg" alt="**Valette at the Editorial Desk of *L'Espasa Meridiana***"><figcaption>**Valette at the Editorial Desk of *L'Espasa Meridiana***</figcaption></figure>
+<figure class="float float-right r-1x1" style="width:300px"><img src="https://i.imgur.com/FFePU0V.jpeg" alt="**Valette at the Editorial Desk of* L'Espasa Meridiana***"><figcaption>**Valette at the Editorial Desk of* L'Espasa Meridiana***</figcaption></figure>
 
 In 1926, Valette joined disaffected veterans' associations and nationalist student groups in Tolosa and **Marsillia** to establish ***Accion Meridiana***, assuming sole executive direction of the movement. That same year, he founded the party organ ***L'Espasa Meridiana***, serving as its chief editorialist and political director. Under Valette's leadership, Accion Meridiana expanded rapidly as an extra-parliamentary league, organizing uniformed youth sections (*Joventuts Meridianas*) and staging mass demonstrations against cabinet instability and industrial strikes in **Barcino** and **Marsillia.**
 
