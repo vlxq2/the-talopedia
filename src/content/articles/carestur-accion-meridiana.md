@@ -33,9 +33,9 @@ infobox:
 
 ## *Accion Meridiana*
 
-***Accion Meridiana*** (**AM**) is a far-right, integral nationalist political party in the [[carestur|Republic of Carestur]]. Originating in the mid-1920s as an extra-parliamentary nationalist league during the political and economic crises of the Third Republic, it reorganized as a formal electoral party following the promulgation of the **Constitucion de Carestur** in 1934.
+***Accion Meridiana*** (**AM**) is a far-right, integral nationalist political party in the [[carestur|Republic of Carestur]]. Originating in the mid-1920s as an extra-parliamentary nationalist league during the political and economic crises of the Third Republic, it reorganized as a formal electoral party following the promulgation of the [[constitution-of-carestur|Constitucion de Carestur]] in 1934.
 
-In the ***Parlament de Carestur***, Accion Meridiana sits in hardline opposition to the minority **FRP-ADT** coalition government of Prime Minister **Jean-Baptiste Cazals**, holding **29 of 577 seats** in the ***Assemblada Nacionala*** and **17 of 348 seats** in the ***Conselh de la Republica*** on a national vote share of approximately **5%**.
+In the [[parliament-of-carestur]], Accion Meridiana sits in hardline opposition to the minority **FRP-ADT** coalition government of Prime Minister **Jean-Baptiste Cazals**, holding **29 of 577 seats** in the ***Assemblada Nacionala*** and **17 of 348 seats** in the ***Conselh de la Republica*** on a national vote share of approximately **5%**.
 
 ## History
 
