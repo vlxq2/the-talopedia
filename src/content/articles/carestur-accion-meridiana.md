@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Accion Meridiana (Political Party)"
 sidebarTitle: "Accion Meridiana (AM)"
 type: organization
 nation: carestur
@@ -67,7 +67,7 @@ Confronted with strict public-order statutes enforced by the new regime, which t
 
 ### Party Apparatus and Statuory Firewalls
 
-<figure class="float float-right" style="width:300px"><img src="https://i.imgur.com/uzJ9v7o.jpeg" alt="**National Headquarters of *Accion Meridiana* in Tolosa**"><figcaption>**National Headquarters of *Accion Meridiana* in Tolosa**</figcaption></figure>
+<figure class="float float-right" style="width:300px"><img src="https://i.imgur.com/uzJ9v7o.jpeg" alt="**National Headquarters of* Accion Meridiana *in Tolosa**"><figcaption>**National Headquarters of* Accion Meridiana *in Tolosa**</figcaption></figure>
 
 Headquartered in **Tolosa**, Accion Meridiana is directed by  **Maurici Valette**
 
