@@ -6,7 +6,7 @@ groups:
       - label: "Modern Era"
         dates: "1818-Present"
         items:
-          - "caresturian-modern-era|l'Epòca Contemporanèa"
+          - "caresturian-modern-era"
   - label: "Politics & Government"
     rows:
       - label: "Constitution and law of Carestur"
