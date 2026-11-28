@@ -27,6 +27,8 @@ groups:
       - label: "Presidents of Carestur"
       - label: "Prime Ministers of Carestur"
       - label: "Caresturian Politicians"
+        items:
+          - "maurici-valette"
   - label: "Economy"
     rows:
       - label: "Industry in Carestur"
